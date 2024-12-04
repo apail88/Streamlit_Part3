@@ -1,6 +1,6 @@
 numpy==2.0.2
 pandas==2.2.3
-requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
+requests==2.32.3
 streamlit==1.40.1
 streamlit-authenticator==0.4.1
 streamlit-option-menu==0.4.0
