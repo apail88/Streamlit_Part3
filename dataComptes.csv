@@ -1,0 +1,4 @@
+username,name,password,email,failed_login_attemps,logged_in,role
+utilisateur,utilisateur,utilisateurMDP,utilisateur@gmail.com,0,False,utilisateur
+root,root,rootMDP,admin@gmail.com,0,False,administrateur
+Pipou,BigPipou85,verybigpipou19,leroiPipou@gmail.com,0,False,explorateur
